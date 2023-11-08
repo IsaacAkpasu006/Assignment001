@@ -13,3 +13,4 @@ compound_intrest = initial_principal * (1+(interest_rate/number_of_time_period_e
 print("YUSUF AND SONS COMPANY")
 print(f'Simple intrest :  {simple_intrest}')
 print(f'Compound intrest : {compound_intrest}')
+.
